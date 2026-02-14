@@ -1,0 +1,5 @@
+{
+  "name": "PokéCompanion Ultimate",
+  "description": "A comprehensive, offline-first Pokémon companion app featuring a Pokédex, Team Builder, and Custom Pokémon Lab.",
+  "requestFramePermissions": []
+}
